@@ -10,3 +10,10 @@ Detta projekt skapades och utvecklades med hjälp av Git för att hantera och sp
 - Git
 - Visual Studio Code
 - Markdown
+## Arbetsfaser
+### Första etappen
+- Skapa ett lokalt Git-arkiv
+### Fas två
+- Organisera projektmål och använda verktyg
+### Fas tre
+- Updatera dokumentation och spåra ändringar med hjälp av Git
