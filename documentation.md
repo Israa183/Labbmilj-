@@ -11,3 +11,8 @@ Projekten syftar tillämpa grunderna i att använda Git
 -Markdown
 ## Projekt Status 
 Projekt befinner sig för närvarande i det inledande utvecklingsskedet
+## Git Arbetsflöde
+-skapa filer och gör ändringar.
+-förbered ändringarna med Git.
+-skapa en commit med ett tydligt meddelande.
+granska projekthistoriken.
