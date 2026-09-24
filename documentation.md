@@ -16,3 +16,8 @@ Projekt befinner sig för närvarande i det inledande utvecklingsskedet
 -förbered ändringarna med Git.
 -skapa en commit med ett tydligt meddelande.
 granska projekthistoriken.
+## Git Commands
+-git init
+-git add
+-git commit
+-git log
